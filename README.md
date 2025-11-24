@@ -1,13 +1,12 @@
 CodonTranslator
 =========================
 
-Self-contained wrapper to sample DNA codon sequences conditioned on species and
-target protein sequence from a trained checkpoint.
+A conditional codon sequence optimizer based on sequence and protein prefixes.
 
 Installation
 -----------------------------------
 
-pip install -e ./release
+pip install -e ./
 
 Requirements
 ------------
